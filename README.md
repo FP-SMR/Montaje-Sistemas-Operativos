@@ -25,7 +25,7 @@ Apuntes realizados por Nicolás Fernández Núñez
 - [Descargar Windows y Linux (€)](/descargar-windows-y-linux)
  
      [Windows11 Descarga](/###windows-11)
-
+     [Windows10 Descarga](/###windows-10)
 
 
 
@@ -40,3 +40,10 @@ Para la descarga oficial, y legal lo haremos a través de las páginas oficiales
 https://www.microsoft.com/es-es/software-download/windows11
 ```
 <img width="1292" height="483" alt="image" src="https://github.com/user-attachments/assets/c48ea494-45ec-4fda-b772-287ac66d91b3" />
+
+### Windows 10
+
+```Java
+https://www.microsoft.com/es-es/software-download/windows10
+```
+<img width="1639" height="617" alt="image" src="https://github.com/user-attachments/assets/ee8a7fcb-c40b-48a6-9038-a0bb8357c24b" />
