@@ -137,7 +137,7 @@ Para actualizar Windows o buscar actualizaciones podemos hacerlo primeramente bu
 
 <img width="757" height="496" alt="image" src="https://github.com/user-attachments/assets/d6cd3a5a-df83-42f5-8d1d-510184c2e13d" />
 
-En configuración nos vamos al último apartado llamado "Windows Update"
+En configuración nos vamos al último apartado llamado **"Windows Update"**
 
 <img width="335" height="522" alt="image" src="https://github.com/user-attachments/assets/7ea47b04-6fe3-4194-a339-320fccdbc990" />
 
