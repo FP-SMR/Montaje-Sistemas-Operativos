@@ -113,3 +113,19 @@ Por último asignaremos el tamaño de el Disco Duro.
 Le daremos a terminar. Ahora ya podemos seguir con la instalación a partir de la interfaz gráfica.
 
 ### Creación máquina virtual Windows
+
+Realizaremos los mismos pasos en **VirtualBox** le daremos a "nueva" otra vez y añadiremos la ISO de Windows que instalemos. En este caso Windows 10.
+
+<img width="822" height="550" alt="image" src="https://github.com/user-attachments/assets/606b31aa-c3e3-4c9a-92da-1c83e8f73045" />
+
+Ahora añadiremos la contraseña nuevamente a el usuario.
+
+<img width="822" height="546" alt="image" src="https://github.com/user-attachments/assets/a4feabe0-21bc-47c2-90f3-70ce43fbc2fb" />
+
+Los recursos de la máquina virtual, usaremos los mismos
+
+<img width="823" height="550" alt="image" src="https://github.com/user-attachments/assets/59f76db2-082b-4e14-a963-1a03a5588f0f" />
+
+Y por último el tamaño de disco, después le daremos a terminar
+
+<img width="832" height="448" alt="image" src="https://github.com/user-attachments/assets/72021a20-d68f-47a5-a98b-89f68718f6b1" />
