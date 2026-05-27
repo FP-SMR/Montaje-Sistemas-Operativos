@@ -1,5 +1,5 @@
 # Instalación de Sistemas Operativos
-
+Apuntes realizados por Nicolás Fernández Núñez
 
 <img width="1268" height="664" alt="image" src="https://github.com/user-attachments/assets/e0688912-ce7b-4dbf-8bad-aa49b6544bb4" />
 
