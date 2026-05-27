@@ -148,3 +148,20 @@ Aquí ya podremos ver las actualizaciones necesarias, en nuestro caso está todo
 <img width="927" height="860" alt="image" src="https://github.com/user-attachments/assets/eddebdb0-c19c-408f-8834-fa05ada19313" />
 
 ## Creación USB autoportables portable y booteable
+
+### Requerimientos
+
+Vamos a requerir de los siguientes **requerimientos** para poder hacerlo
+
+```Java
+Un USB de al menos 8 GB
+Una ISO oficial de Windows o Linux
+Un programa como:
+Rufus
+balenaEtcher
+```
+
+### Paso 1 Descargar Rufus
+
+
+
