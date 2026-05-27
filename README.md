@@ -96,5 +96,9 @@ Para instalar una **máquina virtual**, primeramente necesitamos un gestor de m�
 
 <img width="863" height="577" alt="image" src="https://github.com/user-attachments/assets/f96415f3-7753-481c-a5a5-d3eb233e5b59" />
 
+Le daremos a siguiente ahora nos pide una **contraseña**
 
+<img width="848" height="558" alt="image" src="https://github.com/user-attachments/assets/7f74d1d4-e30e-4ac7-bf2e-e846026dbb96" />
+
+<img width="828" height="555" alt="image" src="https://github.com/user-attachments/assets/87603aa7-821f-478a-8666-1539140cfbf2" />
 
