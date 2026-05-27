@@ -90,6 +90,7 @@ Fedora Linux → Fedora
 
 ## Máquina Virtual Linux y Windows 
 
+### Creación máquina virtual Linux
 
 Para instalar una **máquina virtual**, primeramente necesitamos un gestor de máquinas virtuales en nuestro caso **VirtualBox** le daremos a crear máquina nueva. Y le indicaremos la ISO que hemos descargado previamente.
 
