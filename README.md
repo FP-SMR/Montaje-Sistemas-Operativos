@@ -30,6 +30,8 @@ Apuntes realizados por Nicolás Fernández Núñez - IES Cosme López Rodríguez
   - [Fedora Linux ISO](#fedora-linux)
   - [¿Esto dispone algún coste?](#esto-dispone-algún-coste)
 - [Creación Máquinas Virtuales Linux y Windows](#máquina-virtual-linux-y-windows)
+  - [Creación máquina virtual Linux](#creación-máquina-virtual-linux)
+  - [Creación máquina virtual Windows](#creación-máquina-virtual-windows)
 
 ## Descargar Windows y Linux y Coste 
 
@@ -104,3 +106,10 @@ Ahora nos pide los recursos, lo más apropiado sería poner la mitad de lo que d
 
 <img width="828" height="555" alt="image" src="https://github.com/user-attachments/assets/87603aa7-821f-478a-8666-1539140cfbf2" />
 
+Por último asignaremos el tamaño de el Disco Duro.
+
+<img width="867" height="553" alt="image" src="https://github.com/user-attachments/assets/47754a37-26f3-41ec-a744-9fa1e3552933" />
+
+Le daremos a terminar. Ahora ya podemos seguir con la instalación a partir de la interfaz gráfica.
+
+### Creación máquina virtual Windows
