@@ -174,3 +174,8 @@ https://rufus.ie/es/#download
 Bajamos un poco y aquí lo tendremos
 
 <img width="968" height="426" alt="image" src="https://github.com/user-attachments/assets/63dacc14-9875-4262-8e85-f2c3c52f002e" />
+
+Nos lleva a el siguiente panel
+
+<img width="498" height="537" alt="image" src="https://github.com/user-attachments/assets/1c43d6c3-9ac8-47ef-bbf6-a43e0c1432f5" />
+
