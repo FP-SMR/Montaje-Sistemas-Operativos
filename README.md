@@ -48,3 +48,15 @@ https://www.microsoft.com/es-es/software-download/windows11
 https://www.microsoft.com/es-es/software-download/windows10
 ```
 <img width="1639" height="617" alt="image" src="https://github.com/user-attachments/assets/ee8a7fcb-c40b-48a6-9038-a0bb8357c24b" />
+
+### ¿Esto dispone algún coste?
+
+La descarga de la ISO es gratuita, lo que si puede recurrir algún pago es la **licencia/activación** de Windows
+
+En **Linux** es completamente gratuito y legal su descarga, aunque conviene hacerlo en páginas oficiales, para no conllevar a fallos o virus en el futuro 
+
+Algunas de las más populares podrían ser:
+
+Ubuntu → Ubuntu
+Linux Mint → Linux Mint
+Fedora Linux → Fedora
