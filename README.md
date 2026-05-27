@@ -23,6 +23,7 @@ Apuntes realizados por Nicolás Fernández Núñez
 ## 📚 Índice
 
 [Descargar Windows y Linux (€)](/descargar-windows-y-linux)
+ 
   [Windows11 Descarga](/###windows-11)
 
 
