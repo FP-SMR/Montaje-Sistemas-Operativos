@@ -32,6 +32,7 @@ Apuntes realizados por Nicolás Fernández Núñez - IES Cosme López Rodríguez
 - [Creación Máquinas Virtuales Linux y Windows](#máquina-virtual-linux-y-windows)
   - [Creación máquina virtual Linux](#creación-máquina-virtual-linux)
   - [Creación máquina virtual Windows](#creación-máquina-virtual-windows)
+- [Actualización Windows](#actualizacion-windows)
 
 ## Descargar Windows y Linux y Coste 
 
@@ -129,3 +130,6 @@ Los recursos de la máquina virtual, usaremos los mismos
 Y por último el tamaño de disco, después le daremos a terminar
 
 <img width="832" height="448" alt="image" src="https://github.com/user-attachments/assets/72021a20-d68f-47a5-a98b-89f68718f6b1" />
+
+## Actualización Windows
+
