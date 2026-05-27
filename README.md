@@ -33,7 +33,9 @@ Apuntes realizados por Nicolás Fernández Núñez - IES Cosme López Rodríguez
   - [Creación máquina virtual Linux](#creación-máquina-virtual-linux)
   - [Creación máquina virtual Windows](#creación-máquina-virtual-windows)
 - [Actualización Windows](#actualización-windows)
+- [Creación USB autoportables portable y booteable](#creación-usb-autoportables-portables-y-booteable)
 
+  
 ## Descargar Windows y Linux y Coste 
 
 Para la descarga oficial, y legal lo haremos a través de las páginas oficiales para evitar conflictos
@@ -144,3 +146,5 @@ En configuración nos vamos al último apartado llamado **"Windows Update"**
 Aquí ya podremos ver las actualizaciones necesarias, en nuestro caso está todo actualizado.
 
 <img width="927" height="860" alt="image" src="https://github.com/user-attachments/assets/eddebdb0-c19c-408f-8834-fa05ada19313" />
+
+## Creación USB autoportables portable y booteable
