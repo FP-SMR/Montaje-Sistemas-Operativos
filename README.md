@@ -100,5 +100,7 @@ Le daremos a siguiente ahora nos pide una **contraseña**
 
 <img width="848" height="558" alt="image" src="https://github.com/user-attachments/assets/7f74d1d4-e30e-4ac7-bf2e-e846026dbb96" />
 
+Ahora nos pide los recursos, lo más apropiado sería poner la mitad de lo que disponemos en mi caso serán 2 nucleos y 4096 de RAM
+
 <img width="828" height="555" alt="image" src="https://github.com/user-attachments/assets/87603aa7-821f-478a-8666-1539140cfbf2" />
 
