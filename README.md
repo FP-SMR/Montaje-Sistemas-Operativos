@@ -179,11 +179,10 @@ Nos lleva a el siguiente panel
 
 <img width="498" height="537" alt="image" src="https://github.com/user-attachments/assets/1c43d6c3-9ac8-47ef-bbf6-a43e0c1432f5" />
 
-Ahora ya nos aparecerá 
-
-<img width="498" height="532" alt="image" src="https://github.com/user-attachments/assets/b93c958e-7649-4574-91f1-90a748a2a9b6" />
-
-
 Antes de ello deberemos agregarlo desde fuera en la máquina virtual para que reconozca el USB
 
 <img width="1186" height="499" alt="image" src="https://github.com/user-attachments/assets/9288a6d6-3d2d-46cd-a681-69f6bf81b944" />
+
+Ahora ya nos aparecerá 
+
+<img width="498" height="532" alt="image" src="https://github.com/user-attachments/assets/bb593c8a-6d3d-4777-8bd2-f0a0a3dc1cc7" />
