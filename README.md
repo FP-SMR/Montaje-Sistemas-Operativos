@@ -87,3 +87,13 @@ Ubuntu → Ubuntu
 Linux Mint → Linux Mint
 Fedora Linux → Fedora
 ```
+
+## Máquina Virtual Linux y Windows 
+
+
+Para instalar una **máquina virtual**, primeramente necesitamos un gestor de máquinas virtuales en nuestro caso **VirtualBox** le daremos a crear máquina nueva. Y le indicaremos la ISO que hemos descargado previamente.
+
+<img width="863" height="577" alt="image" src="https://github.com/user-attachments/assets/f96415f3-7753-481c-a5a5-d3eb233e5b59" />
+
+
+
