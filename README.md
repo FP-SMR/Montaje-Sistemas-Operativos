@@ -32,7 +32,7 @@ Apuntes realizados por Nicolás Fernández Núñez - IES Cosme López Rodríguez
 - [Creación Máquinas Virtuales Linux y Windows](#máquina-virtual-linux-y-windows)
   - [Creación máquina virtual Linux](#creación-máquina-virtual-linux)
   - [Creación máquina virtual Windows](#creación-máquina-virtual-windows)
-- [Actualización Windows](#actualizacion-windows)
+- [Actualización Windows](#actualización-windows)
 
 ## Descargar Windows y Linux y Coste 
 
