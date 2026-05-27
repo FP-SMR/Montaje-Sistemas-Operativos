@@ -33,7 +33,7 @@ Apuntes realizados por Nicolás Fernández Núñez - IES Cosme López Rodríguez
   - [Creación máquina virtual Linux](#creación-máquina-virtual-linux)
   - [Creación máquina virtual Windows](#creación-máquina-virtual-windows)
 - [Actualización Windows](#actualización-windows)
-- [Creación USB autoportables portable y booteable](#creación-usb-autoportables-portables-y-booteable)
+- [Creación USB autoportables portable y booteable](#creación-usb-autoportables-portable-y-booteable)
 
   
 ## Descargar Windows y Linux y Coste 
