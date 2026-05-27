@@ -29,7 +29,7 @@ Apuntes realizados por Nicolás Fernández Núñez - IES Cosme López Rodríguez
   - [Linux Mint ISO](#linux-mint)
   - [Fedora Linux ISO](#fedora-linux)
   - [¿Esto dispone algún coste?](#esto-dispone-algún-coste)
-  
+- [Creación Máquinas Virtuales Linux y Windows](#maquina-virtual-linux-y-windows)
 
 ## Descargar Windows y Linux y Coste 
 
