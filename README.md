@@ -24,13 +24,16 @@ Apuntes realizados por Nicolás Fernández Núñez - IES Cosme López Rodríguez
 
 - [Descargar Windows y Linux (€)](/descargar-windows-y-linux)
  
-     [Windows11 Descarga](/###windows-11)
+     [Windows11 Descarga ISO](/###windows-11)
 
-     [Windows10 Descarga](/###windows-10)
+     [Windows10 Descarga ISO](/###windows-10)
 
+     [Ubuntu Descarga ISO](###-ubuntu)
 
+     [Linux Mint ISO](###-linux-mint)
 
-
+     [Fedora Linux ISO](###-fedora-linux)
+  
 
 ## Descargar Windows y Linux y Coste 
 
@@ -49,14 +52,42 @@ https://www.microsoft.com/es-es/software-download/windows10
 ```
 <img width="1639" height="617" alt="image" src="https://github.com/user-attachments/assets/ee8a7fcb-c40b-48a6-9038-a0bb8357c24b" />
 
+### Ubuntu 
+
+```Java
+https://ubuntu.com/download/desktop
+```
+
+<img width="1768" height="774" alt="image" src="https://github.com/user-attachments/assets/5f66db26-b631-42c5-b1ce-5b285b8681dc" />
+
+### Linux Mint
+
+```Java
+https://linuxmint.com/edition.php?id=326
+```
+
+<img width="1468" height="938" alt="image" src="https://github.com/user-attachments/assets/bc160d21-d893-471d-bb9a-054afe86647a" />
+
+### Fedora Linux
+
+```Java
+https://fedoraproject.org/workstation/download/
+```
+
+<img width="1829" height="769" alt="image" src="https://github.com/user-attachments/assets/142494f4-178f-4bc5-a423-c6a0e7adc03c" />
+
+
 ### ¿Esto dispone algún coste?
 
-La descarga de la ISO es gratuita, lo que si puede recurrir algún pago es la **licencia/activación** de Windows
+
+La descarga de la **ISO** es gratuita, lo que si puede recurrir algún pago es la **licencia/activación** de Windows
 
 En **Linux** es completamente gratuito y legal su descarga, aunque conviene hacerlo en páginas oficiales, para no conllevar a fallos o virus en el futuro 
 
 Algunas de las más populares podrían ser:
 
+```Java
 Ubuntu → Ubuntu
 Linux Mint → Linux Mint
 Fedora Linux → Fedora
+```
