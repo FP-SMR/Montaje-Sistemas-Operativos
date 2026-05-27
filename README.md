@@ -161,6 +161,8 @@ Rufus
 balenaEtcher
 ```
 
+En mi caso lo haremos con Rufus
+
 ### Paso 1 Descargar Rufus
 
 
