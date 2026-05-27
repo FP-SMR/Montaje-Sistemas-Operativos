@@ -170,3 +170,7 @@ Lo haremos desde la página oficial
 ```
 https://rufus.ie/es/#download
 ```
+
+Bajamos un poco y aquí lo tendremos
+
+<img width="968" height="426" alt="image" src="https://github.com/user-attachments/assets/63dacc14-9875-4262-8e85-f2c3c52f002e" />
