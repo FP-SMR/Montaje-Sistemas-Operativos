@@ -25,6 +25,7 @@ Apuntes realizados por Nicolás Fernández Núñez - IES Cosme López Rodríguez
 - [Descargar Windows y Linux (€)](/descargar-windows-y-linux)
  
      [Windows11 Descarga](/###windows-11)
+
      [Windows10 Descarga](/###windows-10)
 
 
