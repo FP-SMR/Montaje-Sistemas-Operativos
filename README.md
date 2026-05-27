@@ -12,7 +12,7 @@
 
 <div align="center">
 
-### Web Hacking • PortSwigger • Python
+### Montaje y mantenimiento de equipos • Sistemas Operativos • FP-SMR
 
 <sub>Hecho con ❤️ por Nicolás Fernández Núñez | 1 FP CM</sub>
 
