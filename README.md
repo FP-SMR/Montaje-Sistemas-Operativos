@@ -14,9 +14,28 @@
 
 ### Web Hacking • PortSwigger • Python
 
-<sub>Made with ❤️ by Nicolás Fernández Núñez</sub>
+<sub>Hecho con ❤️ por Nicolás Fernández Núñez | 1 FP CM</sub>
 
 </div>
 
+---
+
 ## 📚 Índice
 
+[Descargar Windows y Linux (€)](/descargar-windows-y-linux)
+  [Windows11 Descarga](/###windows-11)
+
+
+
+
+
+
+## Descargar Windows y Linux y Coste 
+
+Para la descarga oficial, y legal lo haremos a través de las páginas oficiales para evitar conflictos
+
+### Windows 11
+```Java
+https://www.microsoft.com/es-es/software-download/windows11
+```
+<img width="1292" height="483" alt="image" src="https://github.com/user-attachments/assets/c48ea494-45ec-4fda-b772-287ac66d91b3" />
