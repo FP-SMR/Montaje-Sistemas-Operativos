@@ -165,5 +165,8 @@ En mi caso lo haremos con Rufus
 
 ### Paso 1 Descargar Rufus
 
+Lo haremos desde la página oficial
 
-
+```
+https://rufus.ie/es/#download
+```
