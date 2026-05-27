@@ -22,17 +22,13 @@ Apuntes realizados por Nicolás Fernández Núñez - IES Cosme López Rodríguez
 
 ## 📚 Índice
 
-- [Descargar Windows y Linux (€)](/descargar-windows-y-linux)
- 
-     [Windows11 Descarga ISO](/###windows-11)
-
-     [Windows10 Descarga ISO](/###windows-10)
-
-     [Ubuntu Descarga ISO](###-ubuntu)
-
-     [Linux Mint ISO](###-linux-mint)
-
-     [Fedora Linux ISO](###-fedora-linux)
+- [Descargar Windows y Linux y Coste](#descargar-windows-y-linux-y-coste)
+  - [Windows 11 Descarga ISO](#windows-11)
+  - [Windows 10 Descarga ISO](#windows-10)
+  - [Ubuntu Descarga ISO](#ubuntu)
+  - [Linux Mint ISO](#linux-mint)
+  - [Fedora Linux ISO](#fedora-linux)
+  - [¿Esto dispone algún coste?](#esto-dispone-algún-coste)
   
 
 ## Descargar Windows y Linux y Coste 
